@@ -9,7 +9,7 @@ import { CustomCursor } from "@/components/custom-cursor"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SDFM 2520 - Premium Hoodies",
+  title: "MarkaGiy",
   description: "Premium streetwear and comfortable hoodies",
     generator: 'v0.dev'
 }

@@ -51,7 +51,7 @@ export function SplashScreen() {
       <div className="relative w-48 h-48 mb-8">
         <Image
           src="/assets/mglogo.png"
-          alt="SDFM 2520"
+          alt="MG"
           fill
           className="object-contain"
           priority

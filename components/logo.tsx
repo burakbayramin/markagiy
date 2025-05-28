@@ -5,7 +5,7 @@ export function Logo() {
     <div className="relative w-24 h-24">
       <Image
         src="/assets/mglogo.png"
-        alt="SDFM 2520"
+        alt="MG"
         fill
         className="object-contain"
         priority
